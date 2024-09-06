@@ -1,3 +1,5 @@
+INSTRUCTIONS
+
 go to chrome://serviceworker-internals and scroll down to 'Scope: chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/'
 press start, then inspect (or just inspect if it's already activated) and paste the code.
 
